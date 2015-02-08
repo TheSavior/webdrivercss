@@ -5,6 +5,9 @@
   "author": "Christian Bromann <mail@christian-bromann.com>",
   "license": "MIT",
   "main": "index.js",
+  "engines": {
+    "node" : ">=0.10.0"
+  },
   "scripts": {
     "test": "./node_modules/.bin/mocha",
     "travis": "./node_modules/.bin/mocha -R $MOCHA_REPORTERS",
