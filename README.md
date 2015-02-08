@@ -12,7 +12,6 @@ your application.
 
 ![alt text](http://webdriver.io/images/webdrivercss/hero.png "Logo Title Text 1")
 
-
 ## How does it work?
 
 1. Define areas within your application that should always look the same
