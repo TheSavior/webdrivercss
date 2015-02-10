@@ -27,3 +27,5 @@ test/site/components
 
 #jetbrains IDE
 .idea
+
+selenium*.jar
